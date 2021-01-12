@@ -1,2 +1,2 @@
-# Test-Bug-Detector
+# Find-Test-Bugs
 
